@@ -2,8 +2,6 @@
 
 - Paste your long link and get a shorter link
 - You can also choose a custom ID for the link
-- Check it out: https://link-shr.herokuapp.com/
-- The website is responsive (adapts well to different screen sizes)
 
 ### Tools and frameworks used
 
